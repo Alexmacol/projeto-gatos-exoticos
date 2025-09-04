@@ -5,6 +5,9 @@
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Explore o fascinante mundo dos gatos exóticos com a Exotic Tails. Uma galeria de imagens interativa e responsiva." />
 
     <link
       rel="preconnect"
@@ -17,7 +20,9 @@
       href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap"
       rel="stylesheet" />
 
-    <link href="./style.css" rel="stylesheet" />
+    <link
+      href="/dist/output.css"
+      rel="stylesheet" />
 
     <title>Exotic Tails</title>
   </head>
@@ -61,6 +66,6 @@
         &copy; 2025 Exotic Tails. Todos os direitos reservados.
       </p>
     </footer>
-    <script src="./scripts.js"></script>
+    <script src="/public/scripts.js"></script>
   </body>
 </html>

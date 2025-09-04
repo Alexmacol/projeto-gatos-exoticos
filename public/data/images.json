@@ -7,7 +7,7 @@
   {
     "src": "./images/bombaim-cat.jpeg",
     "alt": "Gato da raça Bombaim",
-    "info": "Bombaim — Gato de porte médio, pelagem curta e inteiramente preta, olhos dourados ou cobre e aparência que lembra uma pantera. É sociável, afetuoso, inteligente e se adapta bem a ambientes familiares. Expectativa de vida: 12 a 16 anos."
+    "info": "Bombaim — Gato médio, pelagem curta e totalmente preta, olhos dourados ou cobre, com aparência de pantera. Sociável, afetuoso, inteligente e adaptável ao convívio familiar. Vive de 12 a 16 anos."
   },
   {
     "src": "./images/caracal.jpeg",
@@ -17,7 +17,7 @@
   {
     "src": "./images/chartreux-cat.jpeg",
     "alt": "Gato da raça Chartreux",
-    "info": "Chartreux — Gato de porte médio a grande, pelagem curta, densa e cinza-azulada com textura de algodão, olhos dourados ou cobre e expressão serena. Originário da França, é silencioso, afetuoso, inteligente e muito leal ao seu tutor. Expectativa de vida: 11 a 15 anos."
+    "info": "Chartreux — Gato médio a grande, pelagem curta cinza-azulada com textura de algodão, olhos dourados ou cobre e expressão calma. Francês, é silencioso, afetuoso, inteligente e leal. Vive de 11 a 15 anos."
   },
   {
     "src": "./images/egyptian-mau.jpeg",
@@ -27,7 +27,7 @@
   {
     "src": "./images/levkoy-cat.jpeg",
     "alt": "Gato da raça Levkoy",
-    "info": " Levkoy Ucraniano — Gato de porte médio, pele enrugada e quase sem pelos, com orelhas dobradas para frente e aparência marcante. Originado na Ucrânia em 2004, é resultado do cruzamento entre Don Sphynx e Scottish Fold. É afetuoso, curioso, sociável e muito inteligente, mas exige cuidados especiais com a pele. Expectativa de vida: 15 a 20 anos."
+    "info": "Levkoy Ucraniano — Gato médio, quase sem pelos, pele enrugada, orelhas dobradas e visual único. Criado na Ucrânia em 2004, é afetuoso, curioso, sociável e inteligente. Exige cuidados com a pele. Vive de 15 a 20 anos."
   },
   {
     "src": "./images/lykoi-cat.jpeg",
@@ -42,17 +42,17 @@
   {
     "src": "./images/manx-cat.jpeg",
     "alt": "Gato da raça Manx",
-    "info": "Manx — Gato de porte médio, corpo compacto e musculoso, pelagem curta ou longa em diversas cores e ausência total ou parcial de cauda. Originário da Ilha de Man, é afetuoso, inteligente, silencioso e muito leal, sendo ideal para famílias. Expectativa de vida: 12 a 16 anos."
+    "info": "Manx — Gato médio, compacto, pelagem variada e cauda ausente ou parcial. Da Ilha de Man, é afetuoso, inteligente, silencioso e leal. Vive de 12 a 16 anos."
   },
   {
     "src": "./images/munchkin-cat.jpeg",
     "alt": "Gato da raça Munchkin",
-    "info": "Munchkin — Gato de porte pequeno a médio, com pernas curtas devido a uma mutação genética natural. Possui pelagem curta ou longa em diversas cores, corpo alongado e expressão curiosa. É brincalhão, afetuoso, sociável e muito ativo, apesar da estatura. Expectativa de vida: 12 a 15 anos."
+    "info": "Munchkin — Gato pequeno a médio, pernas curtas, pelagem variada, corpo alongado e olhar curioso. Brincalhão, afetuoso, sociável e ativo. Vive de 12 a 15 anos."
   },
   {
     "src": "./images/norwegian-forest-cat.jpeg",
     "alt": "Gato da raça Norwegian Forest",
-    "info": "Norwegian Forest Cat — Gato de grande porte, pelagem longa e densa, com subpelo espesso e impermeável, ideal para climas frios. Tem aparência selvagem, olhos expressivos e orelhas com tufos. É brincalhão, afetuoso, inteligente e se adapta bem à vida familiar. Expectativa de vida: 14 a 16 anos."
+    "info": "Norwegian Forest Cat — Gato grande, pelagem longa e impermeável, visual selvagem, olhos marcantes e orelhas com tufos. Brincalhão, afetuoso, inteligente e adaptável. Vive de 14 a 16 anos."
   },
   {
     "src": "./images/ocicat.jpeg",
@@ -77,7 +77,7 @@
   {
     "src": "./images/ragdoll-cat.jpeg",
     "alt": "Gato da raça Ragdoll",
-    "info": "Ragdoll — Gato de grande porte, pelagem longa e sedosa, olhos azuis intensos e temperamento extremamente dócil. É tranquilo, afetuoso e adora colo, sendo ideal para ambientes familiares. Expectativa de vida: 12 a 15 anos."
+    "info": "Ragdoll — Gato grande, pelagem longa e sedosa, olhos azuis intensos e temperamento dócil. Tranquilo, afetuoso e amante de colo, ideal para famílias. Vive de 12 a 15 anos."
   },
   {
     "src": "./images/savannah-cat.jpeg",
