@@ -1,0 +1,107 @@
+[
+  {
+    "src": "./images/bengal-cat.jpeg",
+    "alt": "Gato da raça Bengal",
+    "info": "Bengal — Gato de porte médio a grande, pelagem curta com manchas de leopardo, ativo, inteligente e afetuoso, com expectativa de vida de 12 a 14 anos."
+  },
+  {
+    "src": "./images/bombaim-cat.jpeg",
+    "alt": "Gato da raça Bombaim",
+    "info": "Bombaim — Gato de porte médio, pelagem curta e inteiramente preta, olhos dourados ou cobre e aparência que lembra uma pantera. É sociável, afetuoso, inteligente e se adapta bem a ambientes familiares. Expectativa de vida: 12 a 16 anos."
+  },
+  {
+    "src": "./images/caracal.jpeg",
+    "alt": "Gato da raça Caracal",
+    "info": " Caracal — Felino de porte médio, selvagem e exótico, com pelagem dourada e orelhas pontudas com tufos pretos. Ágil, reservado e difícil de domesticar, vive de 12 a 17 anos em cativeiro."
+  },
+  {
+    "src": "./images/chartreux-cat.jpeg",
+    "alt": "Gato da raça Chartreux",
+    "info": "Chartreux — Gato de porte médio a grande, pelagem curta, densa e cinza-azulada com textura de algodão, olhos dourados ou cobre e expressão serena. Originário da França, é silencioso, afetuoso, inteligente e muito leal ao seu tutor. Expectativa de vida: 11 a 15 anos."
+  },
+  {
+    "src": "./images/egyptian-mau.jpeg",
+    "alt": "Gato da raça Egyptian-mau",
+    "info": "Egyptian Mau — Gato de porte pequeno a médio, pelagem curta com manchas naturais, ágil, inteligente e leal, com expectativa de vida de 12 a 15 anos."
+  },
+  {
+    "src": "./images/levkoy-cat.jpeg",
+    "alt": "Gato da raça Levkoy",
+    "info": " Levkoy Ucraniano — Gato de porte médio, pele enrugada e quase sem pelos, com orelhas dobradas para frente e aparência marcante. Originado na Ucrânia em 2004, é resultado do cruzamento entre Don Sphynx e Scottish Fold. É afetuoso, curioso, sociável e muito inteligente, mas exige cuidados especiais com a pele. Expectativa de vida: 15 a 20 anos."
+  },
+  {
+    "src": "./images/lykoi-cat.jpeg",
+    "alt": "Gato da raça Lykoi",
+    "info": "Lykoi — Conhecido como “gato-lobo”, tem porte médio, pelagem curta e rala em padrão ruão (preto e branco), curioso, afetuoso e ativo, com expectativa de vida de 12 a 15 anos."
+  },
+  {
+    "src": "./images/maine-coon-cat.jpeg",
+    "alt": "Gato da raça Maine-coon",
+    "info": "Maine Coon — Gato de grande porte, pelagem longa e espessa, originário dos EUA. Conhecido como “gigante gentil”, é dócil, sociável e inteligente. Vive entre 9 e 15 anos."
+  },
+  {
+    "src": "./images/manx-cat.jpeg",
+    "alt": "Gato da raça Manx",
+    "info": "Manx — Gato de porte médio, corpo compacto e musculoso, pelagem curta ou longa em diversas cores e ausência total ou parcial de cauda. Originário da Ilha de Man, é afetuoso, inteligente, silencioso e muito leal, sendo ideal para famílias. Expectativa de vida: 12 a 16 anos."
+  },
+  {
+    "src": "./images/munchkin-cat.jpeg",
+    "alt": "Gato da raça Munchkin",
+    "info": "Munchkin — Gato de porte pequeno a médio, com pernas curtas devido a uma mutação genética natural. Possui pelagem curta ou longa em diversas cores, corpo alongado e expressão curiosa. É brincalhão, afetuoso, sociável e muito ativo, apesar da estatura. Expectativa de vida: 12 a 15 anos."
+  },
+  {
+    "src": "./images/norwegian-forest-cat.jpeg",
+    "alt": "Gato da raça Norwegian Forest",
+    "info": "Norwegian Forest Cat — Gato de grande porte, pelagem longa e densa, com subpelo espesso e impermeável, ideal para climas frios. Tem aparência selvagem, olhos expressivos e orelhas com tufos. É brincalhão, afetuoso, inteligente e se adapta bem à vida familiar. Expectativa de vida: 14 a 16 anos."
+  },
+  {
+    "src": "./images/ocicat.jpeg",
+    "alt": "Gato da raça Ocicat",
+    "info": "Ocicat — Gato de porte médio a grande, pelagem curta com manchas que lembram jaguatiricas, ativo, sociável e inteligente, com expectativa de vida de 12 a 18 anos."
+  },
+  {
+    "src": "./images/oriental-shorthair-cat.jpeg",
+    "alt": "Gato da raça Oriental Shorthair",
+    "info": " Oriental Shorthair — Gato de porte médio, corpo esbelto, pelagem curta e variada, orelhas grandes e olhos verdes. É sociável, inteligente e vocal. Expectativa de vida: 12 a 15 anos."
+  },
+  {
+    "src": "./images/peterbald-cat.jpeg",
+    "alt": "Gato da raça Peterbald",
+    "info": " Peterbald — Gato de porte médio, corpo esguio e pele quase sem pelos, originário da Rússia. É afetuoso, sociável, curioso e exige cuidados com a pele. Expectativa de vida: 12 a 15 anos."
+  },
+  {
+    "src": "./images/russian-blue.jpeg",
+    "alt": "Gato da raça Russian-blue",
+    "info": " Russian Blue — Gato de porte médio, pelagem curta azul-prateada e olhos verdes, calmo, leal e inteligente, com expectativa de vida de 10 a 16 anos."
+  },
+  {
+    "src": "./images/ragdoll-cat.jpeg",
+    "alt": "Gato da raça Ragdoll",
+    "info": "Ragdoll — Gato de grande porte, pelagem longa e sedosa, olhos azuis intensos e temperamento extremamente dócil. É tranquilo, afetuoso e adora colo, sendo ideal para ambientes familiares. Expectativa de vida: 12 a 15 anos."
+  },
+  {
+    "src": "./images/savannah-cat.jpeg",
+    "alt": "Gato da raça Savannah",
+    "info": "Savannah — Gato de grande porte, corpo longo e pelagem curta com manchas que lembram felinos selvagens. É ativo, inteligente, curioso e sociável. Expectativa de vida: 12 a 15 anos."
+  },
+  {
+    "src": "./images/scottish-fold.jpeg",
+    "alt": "Gato da raça Scottish-fold",
+    "info": " Scottish Fold — Gato de porte médio, orelhas dobradas e pelagem curta ou longa, afetuoso, tranquilo e leal, com expectativa de vida de 13 a 15 anos."
+  },
+  {
+    "src": "./images/serengeti-cat.jpeg",
+    "alt": "Gato da raça Serengeti",
+    "info": " Serengeti — Gato de porte médio, pelagem curta malhada que lembra felinos selvagens, pernas longas e orelhas grandes; ágil, brincalhão e afetuoso, com expectativa de vida de 8 a 12 anos."
+  },
+  {
+    "src": "./images/siamese-cat.jpeg",
+    "alt": "Gato da raça Siamese",
+    "info": " Siamês — Gato de porte médio, corpo esguio, pelagem curta com extremidades escuras e olhos azuis intensos. É vocal, afetuoso, inteligente e muito sociável. Expectativa de vida: 15 a 20 anos."
+  },
+  {
+    "src": "./images/sphinx.jpeg",
+    "alt": "Gato da raça Sphinx",
+    "info": "Sphynx — Gato de porte médio, sem pelos e com pele enrugada, originário do Canadá. É sociável, afetuoso, inteligente e exige cuidados especiais com a pele. Expectativa de vida: 13 a 14 anos."
+  }
+]
