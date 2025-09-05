@@ -4,6 +4,8 @@ Uma landing page elegante e responsiva dedicada ao fascinante mundo dos gatos ex
 
 ![Prévia do projeto Exotic Tails](public/images/preview.jpeg)
 
+Visite em: https://projeto-gatos-exoticos.vercel.app/
+
 ---
 
 ## ✨ Funcionalidades
