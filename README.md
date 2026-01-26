@@ -1,6 +1,6 @@
 # Exotic Tails 🐾
 
-Uma landing page elegante e responsiva dedicada ao fascinante mundo dos gatos exóticos. O projeto apresenta uma galeria de imagens interativas que é carregada dinamicamente, proporcionando uma experiência de usuário fluida e agradável.
+Uma landing page (SPA) elegante e responsiva dedicada ao fascinante mundo dos gatos exóticos. O projeto apresenta uma galeria de imagens interativas que é carregada dinamicamente, proporcionando uma experiência de usuário fluida e agradável.
 
 <a href="https://projeto-gatos-exoticos.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="public/images/preview.jpeg" alt="Prévia do projeto Exotic Tails" style="max-width:100%;">
