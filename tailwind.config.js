@@ -22,6 +22,9 @@ module.exports = {
         rose: {
           50: "#ffcff0",
         },
+        plum: {
+          DEFAULT: "#2d004d",
+        },
       },
       fontFamily: {
         sans: ["Outfit", "sans-serif"],
